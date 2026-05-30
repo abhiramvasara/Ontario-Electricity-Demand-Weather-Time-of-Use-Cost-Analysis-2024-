@@ -4,7 +4,7 @@ An end-to-end data analysis of Ontario's 2024 hourly electricity demand, joined 
 Toronto weather and Time-of-Use (TOU) pricing to understand what drives demand and
 where electricity costs concentrate.
 
-**Live dashboard:** [View on Tableau Public](ADD_YOUR_TABLEAU_LINK_HERE)
+**Live dashboard:** [View on Tableau Public]((https://public.tableau.com/views/OntarioElectricityDemandWeatherTime-of-UseCostAnalysis2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 **Tools:** Python (Pandas) · MySQL · Tableau
 
